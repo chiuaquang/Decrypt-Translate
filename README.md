@@ -13,6 +13,8 @@
 
 </div>
 
+## Lưu ý được làm bằng Muse AI
+Theo tôi muse AI làm có vẻ tệ lắm ở những code Dự án Manhwa của tôi nó vô cùng tự hại không thông minh bằng Cloude
 ---
 
 ## ✨ Tính năng
